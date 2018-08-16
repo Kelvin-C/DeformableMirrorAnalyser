@@ -1,4 +1,8 @@
+———————————————————————————————————————
+
 MSci Project 2017-18 - Developing Deformable Mirrors for High-Powered Ultrashort Pulses
+
+———————————————————————————————————————
 
 The project's main objective was to design and engineer low-cost deformable mirrors (DMs) to be used in high-powered ultrashort laser pulses.
 The DMs are controlled by a Raspberry Pi. Measurements were taken to understand the efficiency and effectiveness of the DM.
