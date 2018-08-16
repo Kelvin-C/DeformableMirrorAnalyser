@@ -19,6 +19,7 @@ Required MATLAB files:
 
 Required Python files:
 - server.py
+- actions.py
 
 Other required installations:
 - ThorCam

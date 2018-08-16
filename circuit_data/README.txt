@@ -42,7 +42,6 @@ Modules:
 	
 	
 
-
 		gain_lookup.py
 		
 		* A lookup table for scaling the output values from the 16-bit ADC board.
@@ -65,7 +64,9 @@ Modules:
 
 
 Data directories:
-	optoswitch_output_06_02
+	
+
+		optoswitch_output_06_02
 		
 		* voltage over duty cycle data taken from the optoswitch with no smoother circuit taken on 6th Feb
 
