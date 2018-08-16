@@ -3,7 +3,6 @@ dmUI v.1.0 - 06/06/2018
 This Python script generates a UI which allows the user to control piezoelectric actuators with duty cycles.
 Any number of actuators can be controlled. A sweeping option is available whereby a range of duty cycles is sent to a particular actuator whilst other actuators remain constant.
 
-
 ———————————————————————————————————————
 
 Tested System:
