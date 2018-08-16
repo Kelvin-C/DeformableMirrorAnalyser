@@ -1,9 +1,10 @@
-Summary:
+genetic algorithm v.1.0 - 06/06/2018
+
 These MATLAB and Python files are used to optimise focal spots with Genetic Algorithm (GA).
-The MATLAB algorithm generates generations of duty cycles and is sent to the Raspberry Pi. The Raspberry
-Pi reads the duty cycles (with server.py) and sends the new square waves to the circuit. The deformable 
-mirror bends and the camera images the new intensity distribution. The intensity distribution of the focal spot
-is analysed by calculating the sum of the squares of the intensities. The sum of the squares is maximised with GA.
+The MATLAB algorithm generates generations of duty cycles and is sent to the Raspberry Pi. The Raspberry Pi reads the duty cycles (with server.py) and sends the new square waves to the circuit.
+The deformable mirror bends and the camera images the new intensity distribution. The intensity distribution of the focal spot is analysed by calculating the sum of the squares of the intensities. The sum of the squares is maximised with GA.
+
+———————————————————————————————————————
 
 Tested System:
 - Windows 10 with MATLAB 9.3.0.713579 (R2017b)
@@ -21,6 +22,8 @@ Required Python files:
 
 Other required installations:
 - ThorCam
+
+———————————————————————————————————————
 
 Variables to edit:
 - From genetic_algorithm.m, you can edit the variables:
@@ -52,6 +55,8 @@ Possible fixes to errors:
 - Changing the PORT number of Rasperry Pi
 - Ensure the IP address and PORT number are correct
 - Ensure the camera is NOT open anywhere else (i.e. must close ThorCam)
+
+———————————————————————————————————————
 
 CONTACT DETAILS:
 - kelvin.chan14@imperial.ac.uk
