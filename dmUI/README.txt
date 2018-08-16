@@ -16,7 +16,6 @@ Required Python Libraries:
 - paramiko
 - socket
 
-
 ———————————————————————————————————————
 
 Variables to edit:
@@ -27,7 +26,6 @@ How to run:
 - Ensure the Raspberry Pi is connected to the computer running this software via Ethernet or Wi-Fi.
 - Ensure the IP address and login details are correct (see 'Variables to edit').
 - Run 'run.py' and the UI should open.
-
 
 ———————————————————————————————————————
 
