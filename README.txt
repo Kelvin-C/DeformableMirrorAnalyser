@@ -1,13 +1,13 @@
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 MSci Project 2017-18 - Developing Deformable Mirrors for High-Powered Ultrashort Pulses
 
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 The project's main objective was to design and engineer low-cost deformable mirrors (DMs) to be used in high-powered ultrashort laser pulses.
 The DMs are controlled by a Raspberry Pi. Measurements were taken to understand the efficiency and effectiveness of the DM.
 
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 The folders:
 
@@ -34,9 +34,9 @@ The folders:
 		- Fits a set of surface/wavefront data with zernike polynomials to allow further analysis.
 		- Is very accurate as a fit with several thousands of polynomials is possible.
 
-———————————————————————————————————————
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 
 Contact Details:
 	
-	- kelvin.chan14@imperial.ac.uk
+	- kelvin.chan14@alumni.imperial.ac.uk
 	- alice.cao14@imperial.ac.uk
