@@ -15,7 +15,7 @@ libtim==0.1.2
 matplotlib==2.1.2
 NiceLib==0.5
 numpy==1.14.0
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 openpyxl==2.5.2
 opticspy==0.2.1
 paramiko==2.4.0
