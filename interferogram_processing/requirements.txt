@@ -18,7 +18,7 @@ numpy==1.14.0
 opencv-python==3.4.0.12
 openpyxl==2.5.2
 opticspy==0.2.1
-paramiko==2.4.0
+paramiko==2.10.1
 pexpect==4.4.0
 Pillow==5.0.0
 pint==0.8.1
