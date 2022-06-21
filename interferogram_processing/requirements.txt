@@ -14,7 +14,7 @@ jdcal==1.3
 libtim==0.1.2
 matplotlib==2.1.2
 NiceLib==0.5
-numpy==1.14.0
+numpy==1.22.0
 opencv-python==3.4.0.12
 openpyxl==2.5.2
 opticspy==0.2.1
