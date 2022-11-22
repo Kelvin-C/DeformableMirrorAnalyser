@@ -20,7 +20,7 @@ openpyxl==2.5.2
 opticspy==0.2.1
 paramiko==2.4.0
 pexpect==4.4.0
-Pillow==5.0.0
+Pillow==9.3.0
 pint==0.8.1
 ptyprocess==0.5.2
 pyasn1==0.4.2
